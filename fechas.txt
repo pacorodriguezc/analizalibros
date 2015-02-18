@@ -1,0 +1,15 @@
+titulo,publicacion
+LaOdisea_homero.txt,-750
+Metamorfosis_ovidio.txt,8
+BIBLIA.txt,100
+DonQuijote01.txt,1605
+Hist_Uni_cantu.txt,1838
+cabana_tio_tom_stowe.txt,1852
+Grandes Esperanzas_dickens_001.txt,1861
+ElTunel.txt,1948
+pedroparamo.txt,1955
+Rayuela.txt,1963
+100AñosDeSoledad.txt,1967
+lacasadelosespiritus.txt,1982
+Despertar-Cuento-Canales.txt,2003
+
