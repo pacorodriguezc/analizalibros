@@ -1,6 +1,6 @@
 
 limpia <- function(titulo) {
-  # limpia de números, signos, blancos, etc... 
+  # limpia de números, signos, blancos, etc....
   texto <- scan(titulo, character(0), quote="")
   vector <- grep("[0-9]",texto)
   if (length(vector) != 0) texto <- texto[-vector]
